@@ -72,4 +72,6 @@ Follow the steps below to install and setup the project:
 
 # Demo
 ![image](https://github.com/user-attachments/assets/b3e79695-565f-40ea-a204-3b146562b0c8)
+![image](https://github.com/user-attachments/assets/267de7a2-1fbb-47b0-86a5-4af6eb37abb3)
+
 
