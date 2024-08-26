@@ -69,3 +69,7 @@ Follow the steps below to install and setup the project:
     ```
 
     Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+# Demo
+![image](https://github.com/user-attachments/assets/b3e79695-565f-40ea-a204-3b146562b0c8)
+
